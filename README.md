@@ -73,30 +73,6 @@ The following screenshots illustrate different components of the simulation envi
 
 > Screenshots will be added in the `images/` directory.
 
----
-
-# Repository Structure
-
-```text
-wind-farm-simulation-environment
-│
-├── README.md
-├── images/
-│   ├── blender_scene.png
-│   ├── gazebo_environment.png
-│   ├── wind_farm.png
-│   ├── drone_platform.png
-│   ├── rviz.png
-│   └── architecture.png
-│
-├── docs/
-│   ├── environment_description.pdf
-│   ├── system_architecture.pdf
-│   └── installation_guide.pdf
-│
-└── diagrams/
-    └── architecture.drawio
-
 ```
 
 ## Research Context
