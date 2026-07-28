@@ -61,35 +61,6 @@ The platform enables autonomous flight experiments within the virtual wind farm 
 
 ---
 
-# System Architecture
-
-```text
-                        Blender
-                           │
-                           ▼
-                     Gazebo Sim
-                           │
-                           ▼
-                      PX4 SITL
-                           │
-                           ▼
-                      ROS 2 Jazzy
-                           │
-                           ▼
-                    Autonomous UAV
-                           │
-           ┌───────────────┼───────────────┐
-           ▼               ▼               ▼
-      RGB Camera     Thermal Camera      LiDAR
-                           │
-                           ▼
-                Data Acquisition Pipeline
-```
-
-*A graphical version of the architecture will be added.*
-
----
-
 # Simulation Gallery
 
 The following screenshots illustrate different components of the simulation environment.
