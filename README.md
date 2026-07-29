@@ -68,10 +68,10 @@ The simulated aerial platform is integrated with:
 # Simulation Gallery
 
 The following screenshots illustrate different components of the simulation environment.
+
 In Gazebo Sim :
 
 ![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/Wind%20farm_x500-fpv_gazebo%20sim%20.png?raw=true)
-![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/x500_vision_Lidar%20sensor.png?raw=true)
 
 In Rviz2 :
 
@@ -83,3 +83,12 @@ This repository presents the simulation environment developed as part of an ongo
 
 The simulation platform provides a flexible and reproducible environment for robotics experimentation and serves as the foundation for subsequent research activities.
 
+# Copyright
+
+© 2026 Karima Haloua. All rights reserved.
+
+This repository documents research developed as part of an ongoing PhD project.
+
+The documentation, figures, diagrams, and other materials contained in this repository are provided for academic and informational purposes only. They may not be copied, modified, redistributed, or used in other projects or publications without the prior written permission of the author.
+
+For academic collaborations or further information, please contact the author.
