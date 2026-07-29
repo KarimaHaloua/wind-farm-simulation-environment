@@ -66,13 +66,9 @@ The simulated aerial platform is integrated with:
 # Simulation Gallery
 
 The following screenshots illustrate different components of the simulation environment.
-
-| Environment | UAV | Sensors |
-|------------|------|----------|
-| Wind Farm | Drone Model | RGB Camera |
-| Gazebo Sim | PX4 SITL | Thermal Camera |
-| RViz2 | Flight Visualization | LiDAR |
-
+![image alt](
+![image alt](
+![image alt](
 ## Research Context
 
 This repository presents the simulation environment developed as part of an ongoing PhD research project on autonomous UAV inspection of wind energy infrastructure.
