@@ -1,5 +1,7 @@
 # wind-farm-simulation-environment
-A realistic wind farm simulation environment built with Blender, Gazebo Sim, PX4, and ROS2 Jazzy for UAV infrastructure inspection and robotics research.
+A wind farm simulation environment built with Blender, Gazebo Sim, PX4, and ROS2 Jazzy for UAV infrastructure inspection and robotics research.
+
+![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/Wind%20Farm.png?raw=true)
 
 ## Overview
 
@@ -52,12 +54,12 @@ The simulation is intended to reproduce realistic inspection scenarios while mai
 # UAV Platform
 
 The simulated aerial platform is integrated with:
-
+![image alt](
+- x500_vision
 - PX4 Software-In-The-Loop (SITL)
 - ROS 2 Jazzy
 - Gazebo Sim
 
-The platform enables autonomous flight experiments within the virtual wind farm while supporting multiple onboard sensing modalities.
 
 ---
 
