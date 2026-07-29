@@ -54,7 +54,9 @@ The simulation is intended to reproduce realistic inspection scenarios while mai
 # UAV Platform
 
 The simulated aerial platform is integrated with:
+
 ![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/x500_vision%20drone.png?raw=true)
+
 - x500_vision
 - PX4 Software-In-The-Loop (SITL)
 - ROS 2 Jazzy
@@ -66,9 +68,15 @@ The simulated aerial platform is integrated with:
 # Simulation Gallery
 
 The following screenshots illustrate different components of the simulation environment.
+In Gazebo Sim :
+
 ![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/Wind%20farm_x500-fpv_gazebo%20sim%20.png?raw=true)
 ![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/x500_vision_Lidar%20sensor.png?raw=true)
-![image alt](
+
+In Rviz2 :
+
+![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/wind%20farm_lidar%20sensor_rviz2.png?raw=true)
+
 ## Research Context
 
 This repository presents the simulation environment developed as part of an ongoing PhD research project on autonomous UAV inspection of wind energy infrastructure.
