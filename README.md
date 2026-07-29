@@ -67,7 +67,7 @@ The simulated aerial platform is integrated with:
 
 The following screenshots illustrate different components of the simulation environment.
 ![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/Wind%20farm_x500-fpv_gazebo%20sim%20.png?raw=true)
-![image alt](
+![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/x500_vision_Lidar%20sensor.png?raw=true)
 ![image alt](
 ## Research Context
 
