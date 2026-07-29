@@ -71,12 +71,9 @@ The following screenshots illustrate different components of the simulation envi
 | Gazebo Sim | PX4 SITL | Thermal Camera |
 | RViz2 | Flight Visualization | LiDAR |
 
-> Screenshots will be added in the `images/` directory.
-
-```
-
 ## Research Context
 
 This repository presents the simulation environment developed as part of an ongoing PhD research project on autonomous UAV inspection of wind energy infrastructure.
 
 The simulation platform provides a flexible and reproducible environment for robotics experimentation and serves as the foundation for subsequent research activities.
+
