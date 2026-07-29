@@ -54,7 +54,7 @@ The simulation is intended to reproduce realistic inspection scenarios while mai
 # UAV Platform
 
 The simulated aerial platform is integrated with:
-![image alt](
+![image alt](https://github.com/KarimaHaloua/wind-farm-simulation-environment/blob/main/images/x500_vision%20drone.png?raw=true)
 - x500_vision
 - PX4 Software-In-The-Loop (SITL)
 - ROS 2 Jazzy
